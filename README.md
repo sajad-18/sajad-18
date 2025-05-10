@@ -20,9 +20,6 @@
 
 ---
 
-## آمار گیت‌هاب من
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajad-18&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-18&layout=compact)
 
 ---
