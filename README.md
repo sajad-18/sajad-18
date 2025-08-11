@@ -29,6 +29,8 @@ If you’re looking to collaborate with someone **dedicated, detail-oriented, an
 - [**Facebook Clone**](https://github.com/sajad-18/Facebook) – A Facebook-like landing page built with HTML/CSS.
 - [**Saffron Shop**](https://github.com/sajad-18/Saffron-Shop-Clone) – An e-commerce platform built with Django.
 - [**Vue + DRF Integration**](https://github.com/sajad-18/vue-drf-integration) – Backend and frontend integration using Django REST Framework and Vue.js.
+- [**ytshop**](https://github.com/sajad-18/ytshop) – A complete and fully responsive game account marketplace built with Django.
+- [**Backup Module**](https://github.com/sajad-18/Backup_module) – A standalone, Windows-focused Python tool designed to simplify the process of backing up critical user directories before reinstalling or upgrading the operating system.
 
 ---
 
